@@ -1,0 +1,67 @@
+@charset "utf-8";
+body{
+	padding: 0;
+	margin:0
+}
+
+img{
+	position: absolute
+}
+
+.whitelight{
+	
+	top: 5px;
+	;left:450px
+
+}
+.PLight{
+	top:5px;
+	left:450px
+}
+.RLight{
+	top: 5px;
+	;left:450px
+}
+.GLight{
+	top:5px;
+	left:450px
+}
+.Nuke{
+  left: 582px;
+  top: 360px;
+}
+.Jukebox{
+  left: 1508px;
+  top: 340px;
+}
+.Money{
+	left:0px;
+	top:535px;
+}
+.light2{
+  left: -28px;
+  top: 60px;
+}
+.Rlight2{
+  left: 80px;
+  top: 0px;
+ 
+}
+.Blackhole{
+left: 1534px;
+  top: 829px;
+}
+.button{
+  left: 1506px;
+  top: 1111px;
+}
+.Ibutton{
+  left: 1399px;
+  top: 1111px;
+}
+.raygunad{
+
+  left: 48px;
+  top: 312px;
+
+}
