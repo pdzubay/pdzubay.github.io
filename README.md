@@ -1,1 +1,45 @@
-# pdzubay.github.io
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Cyber Mall</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<img src="Images/Background1.jpg" alt=""/>
+	<img src="Images/White Light1.png" class="whitelight"
+		 onMouseOver="this.src='Images/Green Light1.png'"
+		 onMouseOut="this.src='Images/White Light1.png'" alt=""
+		 />
+<a href="Audio/Money Won't Change You.mp3"> 
+<img src="Images/Jukebox1.png" class="Jukebox" alt=""/>
+	<a href="Images/RayGunLink.jpg">
+<img src="Images/raygunad.png" class="raygunad" alt=""/>
+	</a>
+</a>
+<audio src="Audio/Crowander - Midnight.mp3" controls autoplay></audio>
+<img src="Images/Spotlight copy 2.png" class="light2" alt=""/>
+<img src="Images/Red Light11.png" class="Rlight2"
+	 onMouseOver="this.src='Images/Purple Light11.png'"
+	 onMouseOut="this.src='Images/Red Light11.png'"
+	 alt=""/>
+	<a href="https://www.cocacola.com"> 
+<img src="Images/NukaCola1.png" class="Nuke" alt=""/>
+</a>
+	<a href="Video/moneyvideo.mp4">
+<img src="Images/$ Ad1.png" class="Money" alt=""/>
+		 </a>
+<a href="Images/Blackhole2.jpg">
+<img src="Images/Blackhole.png" class="Blackhole" alt=""/>
+	</a>
+	<a href="Images/Painting.jpg">
+<img src="Images/PaintingButton.png" class="button" alt=""/>
+		</a>
+
+<a href="Images/Inverted.jpg">	<img src="Images/INVERTbutton.png" class="Ibutton" alt=""/>
+	</a>
+
+</body>
+</html>
+ 
